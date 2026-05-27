@@ -55,15 +55,15 @@ The system improves traditional manual parking methods by reducing human error, 
 ## 🖼️ System Screenshots
 
 ### 🔹 S1 - Login Screen
-![S1](screenshots/S1.png)
+![S1](Screenshots/S1.jpg)
 
 ### 🔹 S2 - Main Dashboard
-![S2](screenshots/S2.png)
+![S2](screenshots/S2.jpg)
 
 ### 🔹 S3 - Vehicle Entry Form
-![S3](screenshots/S3.png)
+![S3](screenshots/S3.jpg)
 
 ### 🔹 S4 - Vehicle Exit Form
-![S4](screenshots/S4.png)
+![S4](screenshots/S4.jpg)
 
 ---

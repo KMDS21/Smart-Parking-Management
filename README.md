@@ -1,4 +1,4 @@
-# 🚗 Smart Parking System
+# Smart Parking System
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The system improves traditional manual parking methods by reducing human error, 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Automate vehicle parking management
 - Track vehicle entry and exit times
@@ -20,7 +20,7 @@ The system improves traditional manual parking methods by reducing human error, 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - C# (.NET Framework 4.7.2)
 - Windows Forms (WinForms)
@@ -30,40 +30,54 @@ The system improves traditional manual parking methods by reducing human error, 
 
 ---
 
-## 📂 System Modules
+## System Modules
 
-### 🔐 Login Module
+### Login Module
 - Secure authentication for system access
 - Only authorized users can enter the system
 
-### 🚗 Vehicle Entry Module
+### Vehicle Entry Module
 - Records incoming vehicles
 - Assigns parking slots
 - Stores entry time in database
 
-### 🚪 Vehicle Exit Module
+### Vehicle Exit Module
 - Records vehicle exit time
 - Calculates parking duration
 - Updates slot availability
 
-### 🅿️ Parking Management Module
+### Parking Management Module
 - Tracks available and occupied slots
 - Real-time status updates
 
 ---
 
-## 🖼️ System Screenshots
+## System Screenshots
 
 ### 🔹 S1 - Login Screen
-![S1](Screenshots/S1.jpg)
+<p align="center">
+  <img src="Screenshots/S1.jpg" width="500"/>
+</p>
+
+---
 
 ### 🔹 S2 - Main Dashboard
-![S2](screenshots/S2.jpg)
+<p align="center">
+  <img src="Screenshots/S2.jpg" width="500"/>
+</p>
+
+---
 
 ### 🔹 S3 - Vehicle Entry Form
-![S3](screenshots/S3.jpg)
+<p align="center">
+  <img src="Screenshots/S3.jpg" width="500"/>
+</p>
+
+---
 
 ### 🔹 S4 - Vehicle Exit Form
-![S4](screenshots/S4.jpg)
+<p align="center">
+  <img src="Screenshots/S4.jpg" width="500"/>
+</p>
 
 ---
